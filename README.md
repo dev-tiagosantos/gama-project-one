@@ -10,38 +10,7 @@ A segunda página será a de descrição de um produto, onde irá conter os mesm
 
 Terceira página será a de “quem somos” com o mesmo estilo de layout que as outras páginas, será uma página simples apenas com título e um texto informativo. 
 
-\\PRODUCT BACKLOG\\
 
-1º Criação de página HTML 
-2º Criação de menus       
-3º Criação de banner 
-4º Criação container Vitrines
-5º Criação de card vitrines
-6º Criação de Container Desconto
-7º Criação de container Whatsapp
-8º Criação de Rodapé
-9º Procurar imagens de produto
-10º Definir textos Lorem Ipsum (temporário)
-11º Criar página quem somos
-12º Criar container para texto
-13º Criar rodapé
-14º Criar página descrição do produto
-15º Criar estrutura em GRID para página de descrição do produto
-17º Criar rodapé
-18º Criar documento CSS
-19º Estilizar menu
-20º Estilizar banner
-21º Estilizar container 
-22º Estilizar card
-23º Estilizar Container Desconto
-25º Estilizar Container whats
-26º Estilizar rodapé
-27º Estilizar página quem somos (GRID)
-28º Estilizar Container Texto quem somos
-29º Estilizar descrição do produto
-30º Definir media queries (menus, banner, cards, rodapé)
-31º Definir media queries (Página descrição do produto)
-32º Definir media queries (Página institucional)
 
 \\SPRINTS\\
 
