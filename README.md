@@ -41,14 +41,14 @@ Prazo de finalização: 20/07/2021 | 23:59h
 
 SPRINT 04: 
 Prazo de finalização: 21/07/2021 | 23:59h
-18º Criar documento CSS
-19º Estilizar menu
-20º Estilizar banner
-21º Estilizar container 
-22º Estilizar card
-23º Estilizar Container Desconto
-25º Estilizar Container whats
-26º Estilizar rodapé
+18º Criar documento CSS.
+19º Estilizar menu.
+20º Estilizar banner.
+21º Estilizar container.
+22º Estilizar card.
+23º Estilizar Container Desconto.
+25º Estilizar Container whats.
+26º Estilizar rodapé.
 
 
 SPRINT 04: 
