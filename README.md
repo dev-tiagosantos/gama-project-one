@@ -14,7 +14,7 @@ Terceira página será a de “quem somos” com o mesmo estilo de layout que as
 
 \\SPRINTS\\
 
-SPRINT 01 - START: 
+SPRINT: 
 Prazo de finalização: 18/07/2021 | 23:59h
 1º Criação de página HTML 
 2º Criação de menus       
@@ -22,7 +22,7 @@ Prazo de finalização: 18/07/2021 | 23:59h
 4º Criação container Vitrines
 5º Criação de card vitrines
 
-SPRINT 02 - AGILIZE: 
+SPRINT 02: 
 Prazo de finalização: 19/07/2021 | 22:00h
 6º Criação de Container Desconto
 7º Criação de container Whatsapp
@@ -30,7 +30,7 @@ Prazo de finalização: 19/07/2021 | 22:00h
 9º Procurar imagens de produto
 10º Definir textos Lorem Ipsum (temporário)
 
-SPRINT 03 - COFFEE INIT: 
+SPRINT 03: 
 Prazo de finalização: 20/07/2021 | 23:59h
 11º Criar página quem somos
 12º Criar container para texto
@@ -39,7 +39,7 @@ Prazo de finalização: 20/07/2021 | 23:59h
 15º Criar estrutura em GRID para página de descrição do produto
 17º Criar rodapé
 
-SPRINT 04 - COFFEE FLEX: 
+SPRINT 04: 
 Prazo de finalização: 21/07/2021 | 23:59h
 18º Criar documento CSS
 19º Estilizar menu
@@ -51,7 +51,7 @@ Prazo de finalização: 21/07/2021 | 23:59h
 26º Estilizar rodapé
 
 
-SPRINT 04 - COFFEE DAY: 
+SPRINT 04: 
 Prazo de finalização: 23/07/2021 | 23:59h
 27º Estilizar página quem somos (GRID)
 28º Estilizar Container Texto quem somos
