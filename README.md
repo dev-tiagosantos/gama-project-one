@@ -24,9 +24,9 @@ Prazo de finalização: 18/07/2021 | 23:59h
 
 3º Criação de banner (3 pontos) - CONCLUÍDO
 
-4º Criação container Vitrines (1 pontos)
+4º Criação container Vitrines (1 pontos) - CONCLUÍDO
 
-5º Criação de card vitrines + Informações (4 pontos)
+5º Criação de card vitrines + Informações (4 pontos) - CONCLUÍDO
 
 SPRINT 02: 
 
