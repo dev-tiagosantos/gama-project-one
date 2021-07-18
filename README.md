@@ -18,11 +18,11 @@ SPRINT 01:
 
 Prazo de finalização: 18/07/2021 | 23:59h
 
-1º Criação de página HTML (1 ponto)
+1º Criação de página HTML (1 ponto) - CONCLUÍDO
 
-2º Criação de menus    (2 pontos)
+2º Criação de menus    (2 pontos) - CONCLUÍDO
 
-3º Criação de banner (3 pontos)
+3º Criação de banner (3 pontos) - CONCLUÍDO
 
 4º Criação container Vitrines (1 pontos)
 
