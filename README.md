@@ -38,15 +38,15 @@ Prazo de finalização: 19/07/2021 | 22:00h
 
 8º Criação de Rodapé + Informações (2 pontos )
 
-9º Criar imagens de produto (7 pontos)
+9º Criar imagens de produto (7 pontos) - CONCLUÍDO
 
-10º Definir textos Lorem Ipsum (temporário) (1 ponto)
+10º Definir textos Lorem Ipsum (temporário) (1 ponto) - CONCLUÍDO
 
 SPRINT 03: 
 
 Prazo de finalização: 20/07/2021 | 23:59h
 
-11º Criar página quem somos (1 ponto)
+11º Criar página quem somos (1 ponto) - CONCLUÍDO
 
 12º Criar container para texto (2 pontos)
 
