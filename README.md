@@ -32,11 +32,11 @@ SPRINT 02:
 
 Prazo de finalização: 19/07/2021 | 22:00h
 
-6º Criação de Container Desconto + Informações (3 pontos)
+6º Criação de Container Desconto + Informações (3 pontos) - CONCLUÍDO
 
-7º Criação de container Whatsapp + Informações (3 pontos )
+7º Criação de container Whatsapp + Informações (3 pontos ) - CONCLUÍDO
 
-8º Criação de Rodapé + Informações (2 pontos )
+8º Criação de Rodapé + Informações (2 pontos ) - CONCLUÍDO
 
 9º Criar imagens de produto (7 pontos) - CONCLUÍDO
 
