@@ -48,15 +48,15 @@ Prazo de finalização: 20/07/2021 | 23:59h
 
 11º Criar página quem somos (1 ponto) - CONCLUÍDO
 
-12º Criar container para texto (2 pontos)
+12º Criar container para texto (2 pontos) - CONCLUÍDO
 
-13º Criar rodapé + Informações (2 pontos)
+13º Criar rodapé + Informações (2 pontos) - CONCLUÍDO
 
-14º Criar página descrição do produto + Informações (10 pontos)
+14º Criar página descrição do produto + Informações (10 pontos) - CONCLUÍDO
 
-15º Criar estrutura em GRID para página de descrição do produto (7 pontos)
+15º Criar estrutura em GRID para página de descrição do produto (7 pontos) - CONCLUÍDO
 
-17º Criar rodapé + Informações (2 pontos )
+17º Criar rodapé + Informações (2 pontos ) - CONCLUÍDO
 
 SPRINT 04: 
 
