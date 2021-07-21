@@ -1,0 +1,280 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap');
+
+body, ul, li, p  {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    font-size: 1.2rem;
+    font-family: Arial;
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
+
+}
+
+h1{
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+
+
+img{
+   max-width: 100%; 
+   display: block;
+   
+}
+
+.header{
+    background:#000;
+    display: flex;
+    justify-content:space-around;
+    height: 80px;
+    align-items: center;
+}
+.logo{
+    width: 150px;
+}
+
+.menu {
+    display: flex;
+}
+
+.menu li {
+    margin-left: 15px;
+    font-family:Montserrat;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+
+.menu li:hover{
+    border-bottom: 3px solid #c39e4d;
+}
+.menu li a{
+    display: block;
+    
+    
+}
+
+.banner-principal{
+    width: 100%;
+    
+    
+}
+
+.newsletter-pc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 800px;
+    margin: 0 auto;
+   
+  
+}
+
+.init-section{
+   margin-bottom: 10%;
+   font-family: Montserrat;
+   font-weight: 600;
+}
+
+
+
+.Newcontainer{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 800px;
+    margin: 0 auto;
+   
+  
+}
+
+.flex2 {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 800px;
+    margin: 0 auto;
+    
+}
+
+.card {
+    position: relative;
+    width: 263px;
+    height: 340px;
+    border-radius: 16px 50px 16px 16px;
+    background: #ffffff;
+    box-shadow: 0px 4px 42px rgba(0, 0, 0, 0.25); 
+    
+
+   
+   
+    
+}
+
+.shoes {
+    position: absolute;
+    top: -70px;
+    right: 10px;
+
+    
+    
+}
+
+
+ .card-content{
+     
+     font-family: 'Montserrat', sans-serif;
+     width: 80%;
+     height: 100%;
+     padding: 110px 20px 0;
+ }
+ 
+ 
+ .titulo{
+     margin-top: 80px;
+     font-weight: bold;
+     font-size: 20px;
+     line-height: 32px;
+     color: #29455f;
+     width: 200px;
+     display: inline-block;
+ }
+ 
+ .preco {
+     
+     margin-top: -20px;
+     font-weight: bold;
+     font-size: 15px;
+     line-height: 30px;
+     color: #29455f;
+     
+ 
+ }
+ 
+ span{
+     font-family: Open Sans;
+     font-style: normal;
+     font-weight: bold;
+     font-size: 14px;
+     line-height: 19px;
+     color: #808080;
+     margin-right: 5px;
+ }
+ 
+ .acao-container {
+     
+     display: flex;
+ }
+ 
+ .shoes-acoes{
+    
+    flex-grow: 1;
+ }
+ 
+ p{
+     font-family: Opens Sans;
+     font-style: normal;
+     font-weight: 600;
+     font-size: 12px;
+     color: #808080;
+ }
+ 
+ .color-opcao{
+     display: flex;
+     margin-bottom: 10px;
+     align-items: center;
+ }
+ 
+ 
+ 
+ .size-options{
+     display: flex;
+     margin: 10px 0;
+ }
+ 
+ .size{
+     width: 23px;
+     height: 23px;
+     font-family: Montserrat;
+     border: 1px solid rgba(0, 0, 0, 0.04);
+     font-weight: 500;
+     font-size: 12px; 
+     border-radius: 8px;
+     color: #808080;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+ 
+   
+ 
+     }
+     
+ 
+ .invetario{
+     display:flex ;
+     justify-content: center;
+     align-items: center;
+     
+ }
+
+
+ 
+ .Buy{ 
+    
+     text-align: center;
+     width: 80%;
+     height: 25px;
+    background:#000;
+     border-radius: 16px;
+     border: 0;
+     
+ }
+
+
+ 
+.Buy:hover{
+    
+    background-color:#c39e4d; 
+}
+
+ .Buy p{
+    
+    color: white;
+    
+
+ }
+ 
+
+ .button-whats{
+     background-color: #fff;
+     border-radius: 8px;
+     text-transform: uppercase;
+     color: #25bc3a;
+     border: none;
+     padding: 15px;
+ }
+ 
+ .button-whats:hover{
+     background-color: whitesmoke;
+ }
+ 
+/* Primeiro valor 1: Se expanda*/
+/* Segundo valor 1: Pode ficar tambem menor*/
+/* Terceiro valor 200px: Tenha essa base, se não conseguir ter 200px, quebre a linha*/
+.flex > div {
+
+    flex: 1 1 200px;
+    margin: 10px 10px 100px 10px;
+}

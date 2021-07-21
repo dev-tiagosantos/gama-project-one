@@ -62,21 +62,21 @@ SPRINT 04:
 
 Prazo de finalização: 21/07/2021 | 23:59h
 
-18º Criar documento CSS (1 ponto)
+18º Criar documento CSS (1 ponto) - CONCLUÍDO
 
-19º Estilizar menu (4 pontos)
+19º Estilizar menu (4 pontos) - CONCLUÍDO
 
-20º Estilizar banner 7 pontos
+20º Estilizar banner 7 pontos - CONCLUÍDO
 
-21º Estilizar container (7 pontos)
+21º Estilizar container (7 pontos) - CONCLUÍDO
 
-22º Estilizar card (10 pontos)
+22º Estilizar card (10 pontos) - CONCLUÍDO
 
-23º Estilizar Container Desconto (7 pontos)
+23º Estilizar Container Desconto (7 pontos) - CONCLUÍDO
 
-25º Estilizar Container whats (7 pontos)
+25º Estilizar Container whats (7 pontos) - CONCLUÍDO
 
-26º Estilizar rodapé (7 pontos)
+26º Estilizar rodapé (7 pontos) - CONCLUÍDO
 
 
 SPRINT 04: 
