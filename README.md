@@ -14,7 +14,7 @@ Terceira página será a de “quem somos” com o mesmo estilo de layout que as
 
 \\SPRINTS\\
 
-SPRINT 01: 
+SPRINT 01: INICIO: 18/07/21 / 17:00 ás 22:00
 
 Prazo de finalização: 18/07/2021 | 23:59h
 
@@ -28,7 +28,9 @@ Prazo de finalização: 18/07/2021 | 23:59h
 
 5º Criação de card vitrines + Informações (4 pontos) - CONCLUÍDO
 
-SPRINT 02: 
+
+
+SPRINT 02:  INICIO: 19/07/21 / 16:30 ás 23:00
 
 Prazo de finalização: 19/07/2021 | 22:00h
 
@@ -42,7 +44,12 @@ Prazo de finalização: 19/07/2021 | 22:00h
 
 10º Definir textos Lorem Ipsum (temporário) (1 ponto) - CONCLUÍDO
 
-SPRINT 03: 
+
+
+
+
+
+SPRINT 03: INICIO: 20/07/21 / 02:22 ás 23:00
 
 Prazo de finalização: 20/07/2021 | 23:59h
 
@@ -58,7 +65,11 @@ Prazo de finalização: 20/07/2021 | 23:59h
 
 17º Criar rodapé + Informações (2 pontos ) - CONCLUÍDO
 
-SPRINT 04: 
+
+
+
+
+SPRINT 04:  INICIO: 20/07/21 / 02:22 ás 23:00
 
 Prazo de finalização: 21/07/2021 | 23:59h
 
@@ -79,7 +90,8 @@ Prazo de finalização: 21/07/2021 | 23:59h
 26º Estilizar rodapé (7 pontos) - CONCLUÍDO
 
 
-SPRINT 04: 
+
+SPRINT 05:  INICIO: 20/07/21 / 02:22 ás 23:00
 
 Prazo de finalização: 23/07/2021 | 11:59h
 
@@ -96,7 +108,7 @@ Prazo de finalização: 23/07/2021 | 11:59h
 32º Definir media queries (Página institucional) (20 pontos) - CONCLUIDO
 
 
-SPRINT 05: 
+SPRINT 06:  INICIO: 22/07/21 / 16:30 ás 23:48
 
 Prazo de finalização: 23/07/2021 | 11:59h
 
