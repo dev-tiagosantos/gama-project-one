@@ -47,7 +47,7 @@ img{
 
 .menu li {
     margin-left: 15px;
-    font-family:Montserrat;
+    font-family:arial;
     font-size: 15px;
     letter-spacing: 1px;
 }
@@ -72,6 +72,8 @@ img{
     justify-content: center;
     align-items: center;
     flex-direction: row;
+    background-color: #f5f5f5;
+    height: 200px;
     
 }
 
@@ -139,6 +141,7 @@ img{
      width: 80%;
      height: 100%;
      padding: 110px 20px 0;
+     
  }
  
  
@@ -267,7 +270,11 @@ img{
  }
  
  .button-whats:hover{
-     background-color: whitesmoke;
+     background-color: rgb(218, 218, 218);
+ }
+
+ .ti{
+     display: none;
  }
  
 /* Primeiro valor 1: Se expanda*/
@@ -277,4 +284,466 @@ img{
 
     flex: 1 1 200px;
     margin: 10px 10px 100px 10px;
+}
+
+.Newcontainer > div {
+
+    flex: 1 1 200px;
+    margin: 10px 10px 100px 10px;
+}
+
+
+
+.addcar{
+    margin-top: 100px;
+    width: 100%;
+    height: 50px;
+    border-radius: 15px;
+    font-family: arial;
+    font-size: 15px;
+    color: white;
+    background-color: #29455f;
+
+}
+
+
+.footer-desconto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#18ca30 ;
+    padding: 35px;
+    margin: 0 auto ;
+}
+
+.footer-desconto p{
+    
+    text-align: center;
+    font-size:25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-bottom: 20px;
+    display: none;
+}
+
+.button-whats
+
+.footer-suportewhats{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#18ffa7 ;
+    padding: 35px;
+    margin: 0 auto ;
+}
+
+.form .input{
+    flex-basis: 70%;
+    margin: 0;
+    border-radius: 10px 0px 0px 10px;
+    padding: 15px 100px 15px 20px;
+    font-size: 14px;
+    color: #959595;
+    background-color: #fff;
+    border: none;
+    
+    
+}
+
+.button{
+    flex-basis: 30%;
+    padding: 15px 20px;
+    border-radius: 0px 10px 10px 0px;
+    border: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 14px;
+    background-color:#000;
+    color: #fff;
+}
+
+.footer{
+    background-color: #000;
+    padding: 25px;
+    
+}
+
+.footer p{
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1;
+}
+
+@media (min-width: 375px) and (max-width: 900px) {
+    .card{
+        width: 100%;
+        
+    }
+
+    
+    .banner-principal{
+        display: none;
+    }
+
+    .newsletter-pc{
+        display: flex;
+        flex-direction: column;
+       
+        
+        
+    }
+
+    .init-section{
+        margin-bottom: 10px;
+        
+    }
+
+    .init-section h1{
+        font-size: 30px;
+        margin-top: 10px;
+        margin-bottom: 100px;
+        font-family: sans-serif;
+        font-weight: 900;
+    }
+
+    
+
+    .newsletter-pc .form .input{
+       width: 100px;
+    }
+    .header{
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+        
+        
+    }
+
+    .flex{
+        padding: 0;
+        margin: 0;
+        justify-content: center;
+        margin: 0 auto;
+    }
+
+    .card{
+        
+        max-width: 80%;
+        
+       
+        
+    }
+
+    body{
+        
+        padding: 0;
+        margin: 0;
+    }
+
+    
+
+
+    .menu li{
+        display: flex;
+        font-size: 15px;
+        
+    }
+    
+
+    .footer-desconto{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      
+        
+    }
+
+    .footer-desconto p{
+        font-size: 15px;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+        color: white;
+        margin-bottom: 20px;
+    }
+    
+
+}
+                                       /*PÁGINA DESCRIÇÃO PRODUTO*/
+
+
+/*======================================== CONTAINER PRINCIPAL ========================================*/
+.principal{
+    max-width: 1000px;
+    display: grid;
+    margin: auto;
+    grid-template-columns: repeat(4, 1fr);
+    
+    grid-template-areas:
+    
+    'container-title container-title container-title container-title'
+    'container-imagem container-imagem container-cart container-cart'
+    'container-imagem-sub container-imagem-sub container-cart container-cart'
+    'description-container description-container description-container description-container'
+    
+    ;
+}
+/*======================================== FINAL CONTAINER PRINCIPAL ========================================*/
+
+
+/*======================================== INICIO CONTAINER TITULO DO PRODUTO ========================================*/
+.container-title{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    grid-area: container-title;
+    height:100px;
+    
+  
+}
+
+.container-title p{
+    margin-top: 30px;
+    font-size: 20px;
+    color: black;
+    text-transform: uppercase;
+    font-family:sans-serif;
+    font-weight:900;
+    
+}
+/*======================================== FINAL CONTAINER TITULO DO PRODUTO ========================================*/
+/*========================================INICIO CONTAINER IMAGEM ========================================*/
+.container-imagem{
+    
+    background-color:white;
+    grid-area: container-imagem;
+    height: 500px;
+    
+    
+}
+
+.container-imagem-sub{
+   
+    grid-area: container-imagem-sub;
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.container-imagem-sub div {
+    width: 50px;
+    height: 50px;
+    background-color:rgb(194, 183, 183);
+    margin: 5px;
+    align-items: center;
+    border-radius: 5px;
+}
+
+   
+/*========================================FINAL CONTAINER DA IMAGEM DO PRODUTO ========================================*/
+
+
+/*======================================== INICIO VALORES DO PRODUTO ========================================*/
+.container-cart {
+    background-color:white;
+    grid-area: container-cart;
+}
+
+.valor-desconto{
+    text-decoration:line-through;
+}
+
+.valor-line-h1{
+    text-decoration:line-through;
+    font-size: 9.5px;
+}
+
+.valor-bold{
+    font-weight: 900;
+    font-size: 18px;
+}
+
+.button-cart{
+    padding: 20px;
+    background-color: black;
+    border-radius: 30px;
+    text-decoration: none;
+    color: white;
+    margin: 50px auto;
+    display: inline-block;
+    text-align: center;
+}
+
+.button-cart:hover{
+    background-color:lightslategrey ;
+    
+}
+
+.meios-pag{
+    display: flex;
+
+}
+
+
+
+
+/*======================================== FINAL VALORES DO PRODUTO ========================================*/
+
+   
+ 
+/*======================================== DESCRIÇÃO DO PRODUTO ========================================*/
+.description-container{
+    padding:10px;
+    grid-area: description-container;
+}
+.description-container p{
+    color: #838383;
+    
+}
+
+.imgt{
+    display: block;
+    width: 400px;
+    margin: 20px auto;
+}
+/*======================================== FIM DESCRIÇÃO DO PRODUTO ========================================*/
+
+
+/*======================================== TABELA FICHA TÉCNICA ========================================*/
+
+.product-specs{
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    max-width: 1000px;
+   box-shadow: 1px 1px 15px 1px rgb(160 160 160 / 30%); ;
+    
+}
+
+.product-spec{
+    display: flex;
+    padding: 25px 32px;
+    color: #838383;
+    flex-direction: column;
+}
+
+.product-specs .product-spec:nth-child(even) {
+    background: #f5f5f5;
+}
+
+.product-specs .product-spec .title{
+    color:black;
+}
+
+.product-specs .product-spec .ficha{
+    text-align: center;
+}
+
+/*========================================  FIM TABELA FICHA TÉCNICA ========================================*/
+
+
+/*========================================  CSS PÁGINA INSTITUCIONAL ========================================*/
+.container-institucional{
+    display: flex;
+    justify-content: center;
+    max-width: 1200px;
+    margin: 10px auto;
+    
+    
+}
+
+.container-institucional div{
+    width: 40%;
+   margin-left: 10px;
+   padding: 30px;
+}
+
+.container-institucional div p{
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.img-banner-instituicional{
+    height: 400px;
+}
+
+@media (min-width: 375px) and (max-width: 900px) {
+    .container-institucional{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .container-institucional div{
+       width: auto;
+    }
+
+    .container-institucional div p{
+        font-size: 16px
+        
+    }
+}
+
+/*========================================  FIM CSS PÁGINA INSTITUCIONAL ========================================*/
+
+/*========================================  MEDIA QUERIES - PÁGINA DESCRIÇÃO DE PRODUTOS ========================================*/
+
+@media (min-width: 375px) and (max-width: 900px) { 
+    .principal{
+        display: flex;
+        flex-direction: column;
+        width: 80%;  
+    }
+
+    .container-title p{
+        width: 90%;
+        text-align: center;
+    }
+    
+     .container-cart{
+       text-align: center;
+   }
+
+   
+   .container-imagem{
+      height: 450px;
+      display: inline-block;
+      text-align: center;
+   }
+   
+     .description-container p{
+      font-size: 14px;
+      
+   }
+
+   .button-cart{
+       width: 80%;
+        align-items: center;
+        
+       
+   }
+
+   .meios-pag{
+       margin-top: 20px;
+       justify-content: center;
+   }
+
+   
+   .container-title{
+       max-width: 100%;
+       margin: 0;
+       padding: 0;
+       
+   }
+
+
+   .produtc-tecnic{
+       max-width: 100%;
+       
+   }
+
+  
+  
+   
 }
