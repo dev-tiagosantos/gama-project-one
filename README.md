@@ -81,16 +81,30 @@ Prazo de finalização: 21/07/2021 | 23:59h
 
 SPRINT 04: 
 
-Prazo de finalização: 23/07/2021 | 23:59h
+Prazo de finalização: 23/07/2021 | 11:59h
 
-27º Estilizar página quem somos (GRID) (10 pontos)
+27º Estilizar página quem somos (GRID) (10 pontos) - CONCLUIDO
 
-28º Estilizar Container Texto quem somos (7 pontos)
+28º Estilizar Container Texto quem somos (7 pontos) -CONCLUIDO
 
-29º Estilizar descrição do produto (7 pontos)
+29º Estilizar descrição do produto (7 pontos) - CONCLUIDO
 
-30º Definir media queries (menus, banner, cards, rodapé) (20 pontos)
+30º Definir media queries (menus, banner, cards, rodapé) (20 pontos) - CONCLUIDO
 
-31º Definir media queries (Página descrição do produto) (20 pontos)
+31º Definir media queries (Página descrição do produto) (20 pontos) - CONCLUIDO
 
-32º Definir media queries (Página institucional) (20 pontos)
+32º Definir media queries (Página institucional) (20 pontos) - CONCLUIDO
+
+
+SPRINT 05: 
+
+Prazo de finalização: 23/07/2021 | 11:59h
+
+27º Criar página categoria (10 pontos) - CONCLUIDO
+
+28º adicionar conteúdo categoria (7 pontos) -CONCLUIDO
+
+29º Estilizar página categoria (7 pontos) - CONCLUIDO
+
+30º Criar imagem Hades (8 pontos) - CONCLUIDO
+
